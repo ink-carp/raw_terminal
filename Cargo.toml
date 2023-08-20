@@ -4,6 +4,8 @@ version = "0.1.0"
 edition = "2021"
 authors = ["ink-carp <18020970773@163.com>"]
 license = "Apache 2.0 source=http://www.apache.org/licenses/LICENSE-2.0"
+repository = "https://github.com/ink-carp/raw_terminal.git"
+description = "control the terminal with ANSI code"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
